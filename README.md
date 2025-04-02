@@ -11,6 +11,7 @@ As for the frontend part, which is this repo:
 3. run "npm run dev" to run it locally
 **Note: the backend server is configured to run on port 3000, which is also NextJS default port. Because of this, the NextJS is pre-configured to run on port 3001.**
 4. visit http://localhost:3001/ to see the project, if the build is successful.
+5. To run tests, run "npx jest" in the terminal.
 
 ##  Extending with new data sources
 
